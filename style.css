@@ -29,7 +29,7 @@ header h1 {
   }
   nav a {
     background-color:lightgrey;
-    padding: 2px;
+    padding: 10px;
     text-decoration: underline;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,7 @@ header h1 {
     color: blue;
     font-weight: bold;
     font-size: 18px;
-    transition: 0.3sec ease;
+
 
   }
   nav a:hover {
